@@ -12,3 +12,5 @@ Testing conflicts
 TRying to add the new line from new branch _jj
 
 Ready for merge
+
+I am testing the pull request for sub branches
